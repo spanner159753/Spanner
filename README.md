@@ -33,7 +33,7 @@ In the future, we will also launch Google Store and Apple Store to make it easie
 <div>
     <img style="padding: 20px;" src="https://app.slacker.pub/static/image/wJutzKwCNaBMjwaVPauVGgTfzKtWbcJmijnuiTMfXjUXapHWhY.jpg" width="200" alt="Accounts"/>
     <img style="padding: 20px;" src="https://app.slacker.pub/static/image/ydkLJqPfWVTxBfEexwDAUHVdeDUifwjunZKsLgSRGdrMTfElSK.jpg" width="200" alt="Ongoing Task"/>
-    <img style="padding: 5px;" src="https://app.slacker.pub/static/image/CiWDUgJOdONisXPtGXEuKAHooUIlxcwdhqaFpPTudNPZqQXDfd.jpg" width="200" alt="Task Event"/>
+    <img style="padding: 20px;" src="https://app.slacker.pub/static/image/CiWDUgJOdONisXPtGXEuKAHooUIlxcwdhqaFpPTudNPZqQXDfd.jpg" width="200" alt="Task Event"/>
   
 </div>
 <div>
