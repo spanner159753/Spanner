@@ -1,8 +1,8 @@
-![Spanner Logo](https://raw.githubusercontent.com/spanner159753/Spanner/spanner/display/logo/app_logo.png)
+![Spanner Logo](https://app.slacker.pub/static/image/fZxpOMRefASYGZuMqwvwHUAxfdbTHVgeQilHKPNCyqhQdJcWFE.png)
 
 # Spanner - A feature rich, user-friendly, managed, automated, toolset, Wax Wallet
 
-![Anchor Screenshot 1](https://raw.githubusercontent.com/spanner159753/Spanner/spanner/display/logo/app.png)
+![Anchor Screenshot 1](https://app.slacker.pub/static/image/ZcoMHqYewxABSpymNUeMBMewgDIkCNwuwjwbycAqINZKAflhTX.png)
 
 ### Features
 
