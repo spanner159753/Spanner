@@ -13,7 +13,15 @@ Some notable features of Spanner include, but are not limited to:
 - Automation, hosted in cloud services, saves effort.
 - A certain amount of free resources every day.
 
-### Applications
+### Related Links
+
+- [Wax Cloud Wallet](https://wallet.wax.io/)
+- [Atomic Hub](https://wax.atomichub.io/market)
+- [Alcor Exchange](https://wax.alcor.exchange/markets)
+- [Wax Bloks Io](https://wax.bloks.io/)
+- [Blockchain Brawlers](https://play.bcbrawlers.com/)
+- [Farmers World](https://farmersworld.io/)
+- [Alien Worlds](https://alienworlds.io/)
 
 
 
