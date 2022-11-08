@@ -30,8 +30,12 @@ In the future, we will also launch Google Store and Apple Store to make it easie
 
 
 ### Application Preview
-![Accounts](https://app.slacker.pub/static/image/wJutzKwCNaBMjwaVPauVGgTfzKtWbcJmijnuiTMfXjUXapHWhY.jpg)![Login](https://app.slacker.pub/static/image/vdBFSzjNoMXUbNlLwCyoNePssOpWorsFAjYgHUDytZGJRwRDPX.jpg)![Anchor Login](https://app.slacker.pub/static/image/oRDzmpXgyPreiswVoEGnzLNmQvsgIMBEOGlJnbeurOPxmxquED.jpg)![Wax Cloud Wallet](https://app.slacker.pub/static/image/WdXYhCKneDMkguWqWQZgUZlUJGyhCXybVtOIFCjDGjsRsHOcki.jpg)
-
+<div class="half" style="text-align: center;">
+    <img src="https://app.slacker.pub/static/image/wJutzKwCNaBMjwaVPauVGgTfzKtWbcJmijnuiTMfXjUXapHWhY.jpg" width="200" alt="Accounts"/>
+    <img src="https://app.slacker.pub/static/image/vdBFSzjNoMXUbNlLwCyoNePssOpWorsFAjYgHUDytZGJRwRDPX.jpg" width="200" alt="Login"/>
+    <img src="https://app.slacker.pub/static/image/oRDzmpXgyPreiswVoEGnzLNmQvsgIMBEOGlJnbeurOPxmxquED.jpg" width="200" alt="Anchor Login"/>
+    <img src="https://app.slacker.pub/static/image/WdXYhCKneDMkguWqWQZgUZlUJGyhCXybVtOIFCjDGjsRsHOcki.jpg" width="200" alt="Wax Cloud Wallet Login"/>
+</div>
 
 ### Related Links
 
