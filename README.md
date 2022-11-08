@@ -13,6 +13,16 @@ Some notable features of Spanner include, but are not limited to:
 - Automation, hosted in cloud services, saves effort.
 - A certain amount of free resources every day.
 
+### Download & Version
+
+We urge all users to only download Spanner from one of these locations:
+
+- The README (this file) or releases section of this repository at [github.com/greymass/anchor](https://github.com/greymass/anchor).
+
+In the future, we will also launch Google Store and Apple Store to make it easier for users to download.
+
+
+
 ### Related Links
 
 - [Wax Cloud Wallet](https://wallet.wax.io/)
