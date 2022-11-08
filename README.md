@@ -7,3 +7,12 @@
 ### Features
 
 Some notable features of Spanner include, but are not limited to:
+
+- Rich automation scripts.
+- Multi account management, supporting Anchor & Wax.
+- Automation, hosted in cloud services, saves effort.
+- A certain amount of free resources every day.
+
+
+
+
