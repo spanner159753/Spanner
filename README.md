@@ -30,16 +30,16 @@ In the future, we will also launch Google Store and Apple Store to make it easie
 
 
 ### Application Preview
-<div style="text-align: center;">
-    <img src="https://app.slacker.pub/static/image/wJutzKwCNaBMjwaVPauVGgTfzKtWbcJmijnuiTMfXjUXapHWhY.jpg" width="200" alt="Accounts"/>
-    <img src="https://app.slacker.pub/static/image/ydkLJqPfWVTxBfEexwDAUHVdeDUifwjunZKsLgSRGdrMTfElSK.jpg" width="200" alt="Ongoing Task"/>
-    <img src="https://app.slacker.pub/static/image/CiWDUgJOdONisXPtGXEuKAHooUIlxcwdhqaFpPTudNPZqQXDfd.jpg" width="200" alt="Task Event"/>
+<div>
+    <img style="padding: 5px;" src="https://app.slacker.pub/static/image/wJutzKwCNaBMjwaVPauVGgTfzKtWbcJmijnuiTMfXjUXapHWhY.jpg" width="200" alt="Accounts"/>
+    <img style="padding: 5px;" src="https://app.slacker.pub/static/image/ydkLJqPfWVTxBfEexwDAUHVdeDUifwjunZKsLgSRGdrMTfElSK.jpg" width="200" alt="Ongoing Task"/>
+    <img style="padding: 5px;" src="https://app.slacker.pub/static/image/CiWDUgJOdONisXPtGXEuKAHooUIlxcwdhqaFpPTudNPZqQXDfd.jpg" width="200" alt="Task Event"/>
   
 </div>
-<div style="text-align: center;">
-    <img src="https://app.slacker.pub/static/image/vdBFSzjNoMXUbNlLwCyoNePssOpWorsFAjYgHUDytZGJRwRDPX.jpg" width="200" alt="Login"/>
-    <img src="https://app.slacker.pub/static/image/oRDzmpXgyPreiswVoEGnzLNmQvsgIMBEOGlJnbeurOPxmxquED.jpg" width="200" alt="Anchor Login"/>
-    <img src="https://app.slacker.pub/static/image/WdXYhCKneDMkguWqWQZgUZlUJGyhCXybVtOIFCjDGjsRsHOcki.jpg" width="200" alt="Wax Cloud Wallet Login"/>
+<div>
+    <img style="padding: 5px;" src="https://app.slacker.pub/static/image/vdBFSzjNoMXUbNlLwCyoNePssOpWorsFAjYgHUDytZGJRwRDPX.jpg" width="200" alt="Login"/>
+    <img style="padding: 5px;" src="https://app.slacker.pub/static/image/oRDzmpXgyPreiswVoEGnzLNmQvsgIMBEOGlJnbeurOPxmxquED.jpg" width="200" alt="Anchor Login"/>
+    <img style="padding: 5px;" src="https://app.slacker.pub/static/image/WdXYhCKneDMkguWqWQZgUZlUJGyhCXybVtOIFCjDGjsRsHOcki.jpg" width="200" alt="Wax Cloud Wallet Login"/>
 </div>
 
 ### Related Links
