@@ -29,6 +29,12 @@ In the future, we will also launch Google Store and Apple Store to make it easie
 - [1.0.0](https://github.com/greymass/anchor) Complete basic function development.
 
 
+### Application Preview
+![Anchor Screenshot 1](https://raw.githubusercontent.com/spanner159753/Spanner/spanner/display/logo/app.png)
+![Anchor Screenshot 1](https://raw.githubusercontent.com/spanner159753/Spanner/spanner/display/logo/app.png)
+![Anchor Screenshot 1](https://raw.githubusercontent.com/spanner159753/Spanner/spanner/display/logo/app.png)
+
+
 ### Related Links
 
 - [Wax Cloud Wallet](https://wallet.wax.io/)
