@@ -13,14 +13,20 @@ Some notable features of Spanner include, but are not limited to:
 - Automation, hosted in cloud services, saves effort.
 - A certain amount of free resources every day.
 
-### Download & Version
+### Download Spanner
 
 We urge all users to only download Spanner from one of these locations:
 
-- The README (this file) or releases section of this repository at [github.com/greymass/anchor](https://github.com/greymass/anchor).
+- The README (this file) or releases section of this repository at [https://github.com/spanner159753/Spanner](https://github.com/greymass/anchor).
 
 In the future, we will also launch Google Store and Apple Store to make it easier for users to download.
 
+### Versions
+
+- [1.4.0](https://github.com/greymass/anchor) Open some dapps for free .
+- [1.3.0](https://github.com/greymass/anchor) Provide more dapp automation, such as MiningNetwork, TycoonPlan.
+- [1.2.0](https://github.com/greymass/anchor) Start supporting the wax account.
+- [1.0.0](https://github.com/greymass/anchor) Complete basic function development.
 
 
 ### Related Links
