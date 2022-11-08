@@ -26,6 +26,7 @@ In the future, we will also launch Google Store and Apple Store to make it easie
 - [1.4.0](https://app.slacker.pub/static/image/spanner-1-4-0.apk) Open some dapps for free .
 - [1.3.0](https://app.slacker.pub/static/image/spanner-1-4-0.apk) Provide more dapp automation, such as MiningNetwork, TycoonPlan.
 - [1.2.0](https://app.slacker.pub/static/image/spanner-1-4-0.apk) Start supporting the wax account.
+- [1.1.0](https://app.slacker.pub/static/image/spanner-1-4-0.apk) Fix bug and do something.
 - [1.0.0](https://app.slacker.pub/static/image/spanner-1-4-0.apk) Complete basic function development.
 
 
