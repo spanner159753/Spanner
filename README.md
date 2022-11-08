@@ -21,7 +21,7 @@ We urge all users to only download Spanner from one of these locations:
 
 In the future, we will also launch Google Store and Apple Store to make it easier for users to download.
 
-### Versions
+### Versions (Current version 1.4.0)
 
 - [1.4.0](https://github.com/greymass/anchor) Open some dapps for free .
 - [1.3.0](https://github.com/greymass/anchor) Provide more dapp automation, such as MiningNetwork, TycoonPlan.
