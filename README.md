@@ -13,6 +13,7 @@ Some notable features of Spanner include, but are not limited to:
 - Automation, hosted in cloud services, saves effort.
 - A certain amount of free resources every day.
 
+### Applications
 
 
 
