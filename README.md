@@ -23,7 +23,6 @@ In the future, we will also launch Apple Store to make it easier for users to do
 
 ### Versions (Current version 1.5.8)
 - [1.5.8](https://app.slacker.pub/static/image/spanner.apk) fix bugs, Optimize the use experience.
-- [1.5.6](https://app.slacker.pub/static/image/spanner.apk) fix bugs, Optimize the use experience.
 - [1.5.2](https://app.slacker.pub/static/image/spanner.apk) Open some dapps for free. Add new functions.
 - [1.5.1](https://app.slacker.pub/static/image/spanner.apk) Provide more dapp automation, such as MiningNetwork, TycoonPlan.
 - [1.2.0](https://app.slacker.pub/static/image/spanner.apk) Start supporting the wax account.
