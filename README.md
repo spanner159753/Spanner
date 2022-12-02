@@ -21,7 +21,7 @@ We urge all users to only download Spanner from one of these locations:
 
 In the future, we will also launch Apple Store to make it easier for users to download.
 
-### Versions (Current version 1.5.6)
+### Versions (Current version 1.5.8)
 - [1.5.8](https://app.slacker.pub/static/image/spanner.apk) fix bugs, Optimize the use experience.
 - [1.5.6](https://app.slacker.pub/static/image/spanner.apk) fix bugs, Optimize the use experience.
 - [1.5.2](https://app.slacker.pub/static/image/spanner.apk) Open some dapps for free. Add new functions.
